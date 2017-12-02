@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 什么是GAFATA?
 
-You can use the [editor on GitHub](https://github.com/ljinkai/gafata/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+李笑来在2017年1月02日的得到专栏"财富自由之路"上的文章“你真的没有机会吗？”里首次提到了GAFATA的概念。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
+        Facebook 在 2016 年 6 月底，月活用户数量达到了 16.5 亿——这几乎是全球人口总数的 1/5 以上。在地球的另外一端，微信，在 2016 年 6 月底，月活用户数量达到了 8.03 亿，这接近是全中国人口总数的 3/5。 互联网迅猛发展的这些年里，有若干家公司已然成了巨头，我随便给它们杜撰了一个缩写——GAFATA（上网搜索了一下，Google 竟然有个字体的名字叫做“Gafata”……）：
+        <ul class="quote_ul">
+        <li>Google </li>
+        <li>Amazon </li>
+        <li> Facebook </li>
+        <li> Apple </li>
+        <li>  Tencent </li>
+        <li> Alibaba </li>
+        </ul> 
 
-### Markdown
+        打个比方，如果，互联网是个“终于建成了的新世界”的话，那么GAFATA就是这个“新世界”里的“房地产巨头公司们”，它们提供一切互联网上商业运转的基础设施与服务，包括数据、云、计算、支付、交易、社交……所以，它们中的每一个都已经彻底占据了“垄断性优势”。于是，在相当长一段时间里，它们的赚钱能力就是最强，弄不好越来越强……<br>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ljinkai/gafata/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](http://7u2qrr.com1.z0.glb.clouddn.com/2017-12-02-WechatIMG302.jpeg?imageView2/2/w/400)
