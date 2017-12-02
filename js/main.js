@@ -66,7 +66,12 @@ function chartInit(data) {
     //console.log(JSON.stringify(data));
     // 基于准备好的dom，初始化echarts实例
     var myChart = echarts.init(document.getElementById('chart'));
-
+    var xArray = ["Google","Amazon","Facebook","Apple","Tencent","Alibaba"];
+    var wid = $(window).width();
+    if (wid < 960) {
+        //xArray = ["谷歌","亚马逊","脸书","苹果","腾讯","阿里"];
+    }
+    console.log(wid);
     // 指定图表的配置项和数据
     var option = {
         title: {
@@ -79,7 +84,7 @@ function chartInit(data) {
             data:['增长比例']
         },
         xAxis: {
-            data: ["Google","Amazon","Facebook","Apple","Tencent","Alibaba"]
+            data: xArray
         },
         yAxis: {},
         series: [{
