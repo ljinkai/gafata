@@ -523,7 +523,7 @@ a {
 /** article **/
 .article_item {width: 24%;float: left;margin-right: 1%;}
 .article_img {max-width: 250px;width: 100%;}
-.article_item_desc {color: gray;line-height: 20px;text-align: center;width: 100%;font-size: 14px;margin-bottom: 10px;}
+.article_item_desc {color: gray;line-height: 20px;text-align: center;width: 100%;font-size: 14px;margin-bottom: 10px;height: 40px;}
 .article_list {margin-top: 20px;}
 
 
