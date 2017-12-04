@@ -27,6 +27,9 @@ function filterData(code,array) {
     var beginStr = begin.d ? (begin.d + " " + begin.h) : dateFrom + " 休市日";
     var endStr = end.d ? (end.d + " " + end.h) : dateTo + " 休市日";
     var rate = "";
+    if (end.d == undefined) {
+        end = array[array.length - 1];
+    }
     if (begin.d && end.d) {
         rate = ((end.h-begin.h)*100/begin.h).toFixed(2);
         chartData["value"][code] = rate;
@@ -71,7 +74,6 @@ function chartInit(data) {
     if (wid < 960) {
         //xArray = ["谷歌","亚马逊","脸书","苹果","腾讯","阿里"];
     }
-    console.log(wid);
     // 指定图表的配置项和数据
     var option = {
         title: {
@@ -144,7 +146,6 @@ function quickSearch(obj,days) {
     for (var code in stockAllData) {
         var item = stockAllData[code];
         var cutArray = item.slice(item.length - days);
-        console.log(cutArray);
         var begin = cutArray[0];
         var end = cutArray[cutArray.length - 1];
 
