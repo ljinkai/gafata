@@ -431,11 +431,9 @@ th {
  * remove the long tap
  */
 a, img {
-  -webkit-touch-callout: none;
 }
 html, body {
-  -webkit-user-select: none;
-  user-select: none;
+
 }
 
 html, body {
