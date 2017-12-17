@@ -469,6 +469,7 @@ a {
 .section {font-size: 16px;line-height: 1.7;}
 .section.section_first {margin-top: 80px;}
 .img_center {margin: 30px auto;display: block;width: 100%;max-width: 240px;}
+.img_center_big {margin: 30px auto;display: block;width: 100%;max-width: 300px;}
 .a_blue {color: #3194d0;}
 .split-line {
   width: 100%;
