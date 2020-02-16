@@ -468,7 +468,7 @@ a {
 .bold {font-weight: bold;color: #009688;}
 .section {font-size: 16px;line-height: 1.7;}
 .section.section_first {margin-top: 80px;}
-.img_center {margin: 30px auto;display: block;width: 100%;max-width: 240px;}
+.img_center {margin: 30px auto;display: block;width: 100%;max-width: 400px;}
 .img_center_big {margin: 30px auto;display: block;width: 100%;max-width: 350px;}
 .a_blue {color: #3194d0;}
 .split-line {
@@ -530,6 +530,17 @@ a {
 .footer a {color: #c8c8c8; text-decoration: underline; }
 .footer a:hover {text-decoration: underline;}
 
+/**quanshang**/
+.quan td{
+  border: 1px gainsboro solid;
+  padding: 6px 10px;
+  text-align: center;
+
+}
+.quan thead td {
+  background-color: ghostwhite;
+
+}
 @media (max-width: 1200px) {
 
 }
