@@ -458,6 +458,10 @@ a {
 
 /** public **/
 .clear_float {clear: both;}
+.max_image {
+  width:100%;
+  max-width: 600px;
+}
 /** quote **/
 .quote {border-left: 2px #009688 solid;padding-left: 10px;}
 .quote_ul {
